@@ -1,2 +1,9 @@
 # -2611500054-PWD-TI1J-26270
 Repository Latihan Pertemuan-1 sampai dengan Pertemuan-16 Matakuliah Pemrograman Web Dasar Kelompok TI1J Tahun Ajaran 2026/2027 Semester Gasal
+# {2611500054}-PWD-{TI1J}-26270
+Repository Latihan Pertemuan-1 sampai dengan Pertemuan-16<br>
+Matakuliah Pemrograman Web Dasar<br>
+Kelompok {kelompok}<br>
+Tahun Ajaran 2026/2027
+Semester Gasal<br><br>
+![Logo ISBAL](logoisbal.png)
