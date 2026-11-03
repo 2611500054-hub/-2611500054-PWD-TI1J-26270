@@ -35,17 +35,17 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
 // Mengamankan data sebelum ditampilkan kembali ke halaman HTML.
 // P6: PHP dasar dan pemrograman sisi peladen
 // Bagian 1: Variabel dan konstanta
-$nim = "0344300002";
-$namaMahasiswa = "Cantika Putih";
-$programStudi = "SI";
+$nim = "2611500054";
+$namaMahasiswa = "Adistie Ivanka Ramadhan";
+$programStudi = "TI";
 $tahunAkademik = "2026/2027";
-$semester = 4;
+$semester = 1;
 $ipk = 3.75;
 $statusAktif = true;
 $catatanTambahan = null;
 
 const NAMA_MATA_KULIAH = "Pemrograman Web Dasar";
-const PROFIL_GITHUB = "satpamal";
+const PROFIL_GITHUB = "satpama";
 
 // Bagian 2: Operator
 $batasSemester = 8;
